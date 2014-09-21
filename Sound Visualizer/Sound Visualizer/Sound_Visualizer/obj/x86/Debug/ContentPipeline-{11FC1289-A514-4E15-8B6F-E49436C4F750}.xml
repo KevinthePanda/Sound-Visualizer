@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>01. Palace [Prod. By Clams Casino].mp3</Source>
+      <Name>song1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\song1.xnb</Output>
+      <Extra>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\song1.wma</Extra>
+      <Time>2014-09-17T20:23:42.3702878-04:00</Time>
+    </Item>
+    <Item>
+      <Source>XagyWA3.jpg</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2014-09-17T20:24:19.8127899-04:00</Time>
+    </Item>
+    <Item>
+      <Source>10 - CHVRCHES - Lungs.mp3</Source>
+      <Name>song2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\song2.xnb</Output>
+      <Extra>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\song2.wma</Extra>
+      <Time>2014-09-17T20:39:42.2544533-04:00</Time>
+    </Item>
+    <Item>
+      <Source>brandon.png</Source>
+      <Name>brandon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\brandon.xnb</Output>
+      <Time>2014-09-17T20:56:36.3851345-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{11FC1289-A514-4E15-8B6F-E49436C4F750}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_VisualizerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kevin Quicho\Desktop\Sound Visualizer\Sound Visualizer\Sound_Visualizer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-15T11:43:02.490548-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
